@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#888" d="M256 32 32 128v32h448v-32L256 32zm0 56a24 24 0 1 1 0 48 24 24 0 0 1 0-48zM64 192v176h56V192H64zm96 0v176h56V192h-56zm136 0v176h56V192h-56zm96 0v176h56V192h-56zM32 400v48h448v-48H32z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="OperoSense logo">
+  <circle cx="60" cy="60" r="52" fill="none" stroke="#2f83c2" stroke-width="9"/>
+  <path d="M78 40 C78 27 62 25 52 31 C40 38 44 52 58 56 C74 61 78 74 66 82 C55 89 42 86 40 74"
+        fill="none" stroke="#2f83c2" stroke-width="10" stroke-linecap="round"/>
+  <path d="M78 40 C78 27 62 25 52 31 C40 38 44 52 58 56"
+        fill="none" stroke="#a8ce3a" stroke-width="10" stroke-linecap="round"/>
+</svg>
