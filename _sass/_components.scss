@@ -287,3 +287,8 @@ ul.task-list input[type="checkbox"] {
 .list-group-flush > .list-group-item {
   list-style: none;
 }
+
+/* Align the OperoSense logo with the font-based social icons */
+.social a[title="OperoSense"] svg {
+  vertical-align: text-bottom;
+}

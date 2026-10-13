@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="text-align: center">OperoSense</p>
-    <p style="text-align: center">Biskop Skaars Gate 4A</p>
-    <p style="text-align: center">7051 Trondheim, Norway</p>
+    <p style="display: block; text-align: center">OperoSense</p>
+    <p style="display: block; text-align: center">Biskop Skaars Gate 4A</p>
+    <p style="display: block; text-align: center">7051 Trondheim, Norway</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
