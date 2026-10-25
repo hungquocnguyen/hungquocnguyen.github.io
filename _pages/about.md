@@ -27,6 +27,6 @@ latest_posts:
 
 I am Hung Quoc Nguyen, a materials scientist and electrochemist with a Ph.D. from the Norwegian University of Science and Technology (NTNU). I work on next-generation battery chemistries (Li-ion, Na-ion, Li-S, Na-S and all-solid-state batteries), advanced operando X-ray techniques and chemo-mechanical diagnostics.
 
-I designed dynamic pressure-control operando electrochemical cells for X-ray diffraction and absorption spectroscopy. The cell design is licensed to RHD Instruments through NTNU TTO. I have led 10+ beamtime proposals and completed 15+ beamtimes at ESRF, DESY and SOLARIS, working with researchers at 8+ institutions across Europe.
+I designed dynamic pressure-control operando electrochemical cells for X-ray diffraction and absorption spectroscopy. The cell design is licensed to RHD Instruments through NTNU TTO. I have led 10+ beamtime proposals and completed 15+ beamtimes at ESRF, DESY, MAXIV and SOLARIS, working with researchers at 8+ institutions across Europe, South Korea, Hong Kong, China and Canada.
 
 My background spans material synthesis, electrode fabrication, electrochemical testing, large-scale data handling (Python, LabVIEW, Arduino) and mentoring master's students. I now work at [OperoSense](https://operosense.com/) in Trondheim.
