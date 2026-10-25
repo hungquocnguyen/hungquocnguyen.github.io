@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Now working at [OperoSense](https://operosense.com/) in Trondheim, Norway.
+Now working at [OperoSense](https://operosense.com/).
